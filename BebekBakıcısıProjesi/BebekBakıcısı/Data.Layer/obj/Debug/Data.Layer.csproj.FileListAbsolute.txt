@@ -1,0 +1,12 @@
+C:\WorkSpace\BebekBakıcısıProjesi\BebekBakıcısı\Data.Layer\bin\Debug\Data.Layer.dll.config
+C:\WorkSpace\BebekBakıcısıProjesi\BebekBakıcısı\Data.Layer\bin\Debug\Data.Layer.dll
+C:\WorkSpace\BebekBakıcısıProjesi\BebekBakıcısı\Data.Layer\bin\Debug\Data.Layer.pdb
+C:\WorkSpace\BebekBakıcısıProjesi\BebekBakıcısı\Data.Layer\bin\Debug\EntityFramework.dll
+C:\WorkSpace\BebekBakıcısıProjesi\BebekBakıcısı\Data.Layer\bin\Debug\EntityFramework.SqlServer.dll
+C:\WorkSpace\BebekBakıcısıProjesi\BebekBakıcısı\Data.Layer\bin\Debug\EntityFramework.xml
+C:\WorkSpace\BebekBakıcısıProjesi\BebekBakıcısı\Data.Layer\bin\Debug\EntityFramework.SqlServer.xml
+C:\WorkSpace\BebekBakıcısıProjesi\BebekBakıcısı\Data.Layer\obj\Debug\Data.Layer.csproj.AssemblyReference.cache
+C:\WorkSpace\BebekBakıcısıProjesi\BebekBakıcısı\Data.Layer\obj\Debug\Data.Layer.csproj.CoreCompileInputs.cache
+C:\WorkSpace\BebekBakıcısıProjesi\BebekBakıcısı\Data.Layer\obj\Debug\Data.Layer.csproj.Up2Date
+C:\WorkSpace\BebekBakıcısıProjesi\BebekBakıcısı\Data.Layer\obj\Debug\Data.Layer.dll
+C:\WorkSpace\BebekBakıcısıProjesi\BebekBakıcısı\Data.Layer\obj\Debug\Data.Layer.pdb

@@ -1,0 +1,1157 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EduKıds.bundle.scp.css",
+      "PackagePath": "staticwebassets\\EduKıds.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\ajax-load\\form-appointment.html",
+      "PackagePath": "staticwebassets\\ajax-load\\form-appointment.html"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\assets\\images\\shortcodes\\working-steps-bg.html",
+      "PackagePath": "staticwebassets\\assets\\images\\shortcodes\\working-steps-bg.html"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\css\\ajax-loader.html",
+      "PackagePath": "staticwebassets\\css\\ajax-loader.html"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\css\\colors\\theme-skin-color-set1.css",
+      "PackagePath": "staticwebassets\\css\\colors\\theme-skin-color-set1.css"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\css\\elegant-icons.css",
+      "PackagePath": "staticwebassets\\css\\elegant-icons.css"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\css\\flaticon-set-communication.css",
+      "PackagePath": "staticwebassets\\css\\flaticon-set-communication.css"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\css\\flaticon-set-current-theme.css",
+      "PackagePath": "staticwebassets\\css\\flaticon-set-current-theme.css"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\css\\font-awesome5.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome5.css"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\css\\fonts\\flexslider-icon-2.html",
+      "PackagePath": "staticwebassets\\css\\fonts\\flexslider-icon-2.html"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\css\\fonts\\flexslider-icon-3.html",
+      "PackagePath": "staticwebassets\\css\\fonts\\flexslider-icon-3.html"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\css\\fonts\\flexslider-icon-4.html",
+      "PackagePath": "staticwebassets\\css\\fonts\\flexslider-icon-4.html"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\css\\fonts\\flexslider-icon.html",
+      "PackagePath": "staticwebassets\\css\\fonts\\flexslider-icon.html"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\css\\fonts\\flexslider-icond41d.html",
+      "PackagePath": "staticwebassets\\css\\fonts\\flexslider-icond41d.html"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\css\\fonts\\slick-2.html",
+      "PackagePath": "staticwebassets\\css\\fonts\\slick-2.html"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\css\\fonts\\slick-3.html",
+      "PackagePath": "staticwebassets\\css\\fonts\\slick-3.html"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\css\\fonts\\slick-4.html",
+      "PackagePath": "staticwebassets\\css\\fonts\\slick-4.html"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\css\\fonts\\slick.html",
+      "PackagePath": "staticwebassets\\css\\fonts\\slick.html"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\css\\fonts\\slickd41d.html",
+      "PackagePath": "staticwebassets\\css\\fonts\\slickd41d.html"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\css\\icomoon.css",
+      "PackagePath": "staticwebassets\\css\\icomoon.css"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\css\\images\\bx_loader.html",
+      "PackagePath": "staticwebassets\\css\\images\\bx_loader.html"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\css\\images\\close.png",
+      "PackagePath": "staticwebassets\\css\\images\\close.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\css\\images\\close@2x.png",
+      "PackagePath": "staticwebassets\\css\\images\\close@2x.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\css\\images\\controls.html",
+      "PackagePath": "staticwebassets\\css\\images\\controls.html"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\css\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\css\\images\\loading.gif"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\css\\images\\loading@2x.gif",
+      "PackagePath": "staticwebassets\\css\\images\\loading@2x.gif"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\css\\images\\next.png",
+      "PackagePath": "staticwebassets\\css\\images\\next.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\css\\images\\next@2x.png",
+      "PackagePath": "staticwebassets\\css\\images\\next@2x.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\css\\images\\prev.png",
+      "PackagePath": "staticwebassets\\css\\images\\prev.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\css\\images\\prev@2x.png",
+      "PackagePath": "staticwebassets\\css\\images\\prev@2x.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\css\\javascript-plugins-bundle.css",
+      "PackagePath": "staticwebassets\\css\\javascript-plugins-bundle.css"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\css\\menuzord-skins\\menuzord-rounded-boxed.css",
+      "PackagePath": "staticwebassets\\css\\menuzord-skins\\menuzord-rounded-boxed.css"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\css\\owl.video.play.html",
+      "PackagePath": "staticwebassets\\css\\owl.video.play.html"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\css\\pe-icon-7-stroke.css",
+      "PackagePath": "staticwebassets\\css\\pe-icon-7-stroke.css"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\css\\preloader.css",
+      "PackagePath": "staticwebassets\\css\\preloader.css"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\css\\style-main.css",
+      "PackagePath": "staticwebassets\\css\\style-main.css"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\fonts\\eleganticons\\eleganticons.eot",
+      "PackagePath": "staticwebassets\\fonts\\eleganticons\\eleganticons.eot"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\fonts\\eleganticons\\eleganticons.svg",
+      "PackagePath": "staticwebassets\\fonts\\eleganticons\\eleganticons.svg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\fonts\\eleganticons\\eleganticons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\eleganticons\\eleganticons.ttf"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\fonts\\eleganticons\\eleganticons.woff",
+      "PackagePath": "staticwebassets\\fonts\\eleganticons\\eleganticons.woff"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\fonts\\eleganticons\\eleganticonsd41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\eleganticons\\eleganticonsd41d.eot"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\fonts\\flaticon-set-communication\\flaticon-set-communication.eot",
+      "PackagePath": "staticwebassets\\fonts\\flaticon-set-communication\\flaticon-set-communication.eot"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\fonts\\flaticon-set-communication\\flaticon-set-communication.svg",
+      "PackagePath": "staticwebassets\\fonts\\flaticon-set-communication\\flaticon-set-communication.svg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\fonts\\flaticon-set-communication\\flaticon-set-communication.ttf",
+      "PackagePath": "staticwebassets\\fonts\\flaticon-set-communication\\flaticon-set-communication.ttf"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\fonts\\flaticon-set-communication\\flaticon-set-communication.woff",
+      "PackagePath": "staticwebassets\\fonts\\flaticon-set-communication\\flaticon-set-communication.woff"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\fonts\\flaticon-set-communication\\flaticon-set-communicationd41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\flaticon-set-communication\\flaticon-set-communicationd41d.eot"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\fonts\\flaticon-set-current-theme\\flaticon-set-current-themeff07.eot",
+      "PackagePath": "staticwebassets\\fonts\\flaticon-set-current-theme\\flaticon-set-current-themeff07.eot"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\fonts\\flaticon-set-current-theme\\flaticon-set-current-themeff07.svg",
+      "PackagePath": "staticwebassets\\fonts\\flaticon-set-current-theme\\flaticon-set-current-themeff07.svg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\fonts\\flaticon-set-current-theme\\flaticon-set-current-themeff07.ttf",
+      "PackagePath": "staticwebassets\\fonts\\flaticon-set-current-theme\\flaticon-set-current-themeff07.ttf"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\fonts\\flaticon-set-current-theme\\flaticon-set-current-themeff07.woff",
+      "PackagePath": "staticwebassets\\fonts\\flaticon-set-current-theme\\flaticon-set-current-themeff07.woff"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\fonts\\fontawesome5\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome5\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\fonts\\fontawesome5\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome5\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\fonts\\fontawesome5\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome5\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\fonts\\fontawesome5\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome5\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\fonts\\fontawesome5\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome5\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\fonts\\fontawesome5\\fa-brands-400d41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome5\\fa-brands-400d41d.eot"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\fonts\\fontawesome5\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome5\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\fonts\\fontawesome5\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome5\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\fonts\\fontawesome5\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome5\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\fonts\\fontawesome5\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome5\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\fonts\\fontawesome5\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome5\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\fonts\\fontawesome5\\fa-regular-400d41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome5\\fa-regular-400d41d.eot"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\fonts\\fontawesome5\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome5\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\fonts\\fontawesome5\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome5\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\fonts\\fontawesome5\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome5\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\fonts\\fontawesome5\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome5\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\fonts\\fontawesome5\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome5\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\fonts\\fontawesome5\\fa-solid-900d41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome5\\fa-solid-900d41d.eot"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\fonts\\icomoon\\fonts\\icomoon2f98.eot",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\fonts\\icomoon2f98.eot"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\fonts\\icomoon\\fonts\\icomoon2f98.svg",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\fonts\\icomoon2f98.svg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\fonts\\icomoon\\fonts\\icomoon2f98.ttf",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\fonts\\icomoon2f98.ttf"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\fonts\\icomoon\\fonts\\icomoon2f98.woff",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\fonts\\icomoon2f98.woff"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\fonts\\lgd41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\lgd41d.eot"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\fonts\\lgd641.eot",
+      "PackagePath": "staticwebassets\\fonts\\lgd641.eot"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\fonts\\lgd641.svg",
+      "PackagePath": "staticwebassets\\fonts\\lgd641.svg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\fonts\\lgd641.ttf",
+      "PackagePath": "staticwebassets\\fonts\\lgd641.ttf"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\fonts\\lgd641.woff",
+      "PackagePath": "staticwebassets\\fonts\\lgd641.woff"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\fonts\\pe-icon-7-stroke\\pe-icon-7-strokebb1d.eot",
+      "PackagePath": "staticwebassets\\fonts\\pe-icon-7-stroke\\pe-icon-7-strokebb1d.eot"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\fonts\\pe-icon-7-stroke\\pe-icon-7-strokebb1d.svg",
+      "PackagePath": "staticwebassets\\fonts\\pe-icon-7-stroke\\pe-icon-7-strokebb1d.svg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\fonts\\pe-icon-7-stroke\\pe-icon-7-strokebb1d.ttf",
+      "PackagePath": "staticwebassets\\fonts\\pe-icon-7-stroke\\pe-icon-7-strokebb1d.ttf"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\fonts\\pe-icon-7-stroke\\pe-icon-7-strokebb1d.woff",
+      "PackagePath": "staticwebassets\\fonts\\pe-icon-7-stroke\\pe-icon-7-strokebb1d.woff"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\fonts\\pe-icon-7-stroke\\pe-icon-7-stroked41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\pe-icon-7-stroke\\pe-icon-7-stroked41d.eot"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\about\\about-floating-img1.png",
+      "PackagePath": "staticwebassets\\images\\about\\about-floating-img1.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\about\\about1.png",
+      "PackagePath": "staticwebassets\\images\\about\\about1.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\about\\about6.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\about6.jpg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\apple-touch-icon-114x114.png",
+      "PackagePath": "staticwebassets\\images\\apple-touch-icon-114x114.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\apple-touch-icon-144x144.png",
+      "PackagePath": "staticwebassets\\images\\apple-touch-icon-144x144.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\apple-touch-icon-72x72.png",
+      "PackagePath": "staticwebassets\\images\\apple-touch-icon-72x72.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\images\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\bg\\bg1.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\bg1.jpg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\bg\\footer-object1.png",
+      "PackagePath": "staticwebassets\\images\\bg\\footer-object1.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\bg\\home-banner-wave.png",
+      "PackagePath": "staticwebassets\\images\\bg\\home-banner-wave.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\bg\\shining-star.png",
+      "PackagePath": "staticwebassets\\images\\bg\\shining-star.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\blog\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\1.jpg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\blog\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\2.jpg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\blog\\b1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\b1.jpg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\blog\\b2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\b2.jpg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\blog\\b3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\b3.jpg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\blog\\square1.html",
+      "PackagePath": "staticwebassets\\images\\blog\\square1.html"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\close.png",
+      "PackagePath": "staticwebassets\\images\\close.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\current-theme\\title-line-bottom.png",
+      "PackagePath": "staticwebassets\\images\\current-theme\\title-line-bottom.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\dot-object1.png",
+      "PackagePath": "staticwebassets\\images\\dot-object1.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\floating-objects\\21.html",
+      "PackagePath": "staticwebassets\\images\\floating-objects\\21.html"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\floating-objects\\22.html",
+      "PackagePath": "staticwebassets\\images\\floating-objects\\22.html"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\floating-objects\\23.html",
+      "PackagePath": "staticwebassets\\images\\floating-objects\\23.html"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\floating-objects\\24.html",
+      "PackagePath": "staticwebassets\\images\\floating-objects\\24.html"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\gallery\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\1.jpg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\gallery\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\2.jpg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\gallery\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\3.jpg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\gallery\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\4.jpg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\gallery\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\5.jpg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\gallery\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\6.jpg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\gallery\\masonry-3col.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\masonry-3col.jpg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\gallery\\masonry-tiles-3col-height.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\masonry-tiles-3col-height.jpg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\gallery\\masonry-tiles-4col.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\masonry-tiles-4col.jpg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\headphone-128.png",
+      "PackagePath": "staticwebassets\\images\\headphone-128.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\icon-holder\\01.html",
+      "PackagePath": "staticwebassets\\images\\icon-holder\\01.html"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\icon-holder\\03.html",
+      "PackagePath": "staticwebassets\\images\\icon-holder\\03.html"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\icon\\1.png",
+      "PackagePath": "staticwebassets\\images\\icon\\1.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\icon\\2.png",
+      "PackagePath": "staticwebassets\\images\\icon\\2.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\line-bottom-style1-image-icon.html",
+      "PackagePath": "staticwebassets\\images\\line-bottom-style1-image-icon.html"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\logo-wide-white.png",
+      "PackagePath": "staticwebassets\\images\\logo-wide-white.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\logo-wide.png",
+      "PackagePath": "staticwebassets\\images\\logo-wide.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\logo-wide@2x.png",
+      "PackagePath": "staticwebassets\\images\\logo-wide@2x.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\objects\\event-arrow1.png",
+      "PackagePath": "staticwebassets\\images\\objects\\event-arrow1.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\objects\\feature-bg-object01.png",
+      "PackagePath": "staticwebassets\\images\\objects\\feature-bg-object01.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\objects\\feature-bg-object02.png",
+      "PackagePath": "staticwebassets\\images\\objects\\feature-bg-object02.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\objects\\feature-bg-object03.png",
+      "PackagePath": "staticwebassets\\images\\objects\\feature-bg-object03.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\objects\\video-play-btn.png",
+      "PackagePath": "staticwebassets\\images\\objects\\video-play-btn.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\objects\\why-choose-icon1.png",
+      "PackagePath": "staticwebassets\\images\\objects\\why-choose-icon1.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\objects\\why-choose-icon3.png",
+      "PackagePath": "staticwebassets\\images\\objects\\why-choose-icon3.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\objects\\why-choose-icon4.png",
+      "PackagePath": "staticwebassets\\images\\objects\\why-choose-icon4.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\pattern1.png",
+      "PackagePath": "staticwebassets\\images\\pattern1.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\pattern2.png",
+      "PackagePath": "staticwebassets\\images\\pattern2.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\pattern3.png",
+      "PackagePath": "staticwebassets\\images\\pattern3.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\photos\\events-img1.jpg",
+      "PackagePath": "staticwebassets\\images\\photos\\events-img1.jpg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\prettyPhoto\\dark_rounded\\btnNext.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\dark_rounded\\btnNext.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\prettyPhoto\\dark_rounded\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\dark_rounded\\btnPrevious.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\prettyPhoto\\dark_rounded\\contentPattern.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\dark_rounded\\contentPattern.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\prettyPhoto\\dark_rounded\\loader.gif",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\dark_rounded\\loader.gif"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\prettyPhoto\\dark_rounded\\sprite.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\dark_rounded\\sprite.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\prettyPhoto\\dark_square\\btnNext.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\dark_square\\btnNext.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\prettyPhoto\\dark_square\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\dark_square\\btnPrevious.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\prettyPhoto\\dark_square\\loader.gif",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\dark_square\\loader.gif"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\prettyPhoto\\dark_square\\sprite.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\dark_square\\sprite.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\prettyPhoto\\default\\default_thumb.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\default\\default_thumb.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\prettyPhoto\\default\\loader.gif",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\default\\loader.gif"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\prettyPhoto\\default\\sprite.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\default\\sprite.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\prettyPhoto\\default\\sprite_next.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\default\\sprite_next.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\prettyPhoto\\default\\sprite_prev.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\default\\sprite_prev.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\prettyPhoto\\default\\sprite_x.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\default\\sprite_x.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\prettyPhoto\\default\\sprite_y.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\default\\sprite_y.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\prettyPhoto\\facebook\\btnNext.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\facebook\\btnNext.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\prettyPhoto\\facebook\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\facebook\\btnPrevious.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\prettyPhoto\\facebook\\contentPatternBottom.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\facebook\\contentPatternBottom.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\prettyPhoto\\facebook\\contentPatternLeft.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\facebook\\contentPatternLeft.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\prettyPhoto\\facebook\\contentPatternRight.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\facebook\\contentPatternRight.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\prettyPhoto\\facebook\\contentPatternTop.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\facebook\\contentPatternTop.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\prettyPhoto\\facebook\\default_thumbnail.gif",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\facebook\\default_thumbnail.gif"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\prettyPhoto\\facebook\\loader.gif",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\facebook\\loader.gif"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\prettyPhoto\\facebook\\sprite.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\facebook\\sprite.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\prettyPhoto\\light_rounded\\btnNext.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\light_rounded\\btnNext.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\prettyPhoto\\light_rounded\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\light_rounded\\btnPrevious.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\prettyPhoto\\light_rounded\\loader.gif",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\light_rounded\\loader.gif"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\prettyPhoto\\light_rounded\\sprite.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\light_rounded\\sprite.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\prettyPhoto\\light_square\\btnNext.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\light_square\\btnNext.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\prettyPhoto\\light_square\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\light_square\\btnPrevious.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\prettyPhoto\\light_square\\sprite.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\light_square\\sprite.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\service\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\service\\1.jpg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\service\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\service\\2.jpg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\service\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\service\\3.jpg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\shadow-overlay.png",
+      "PackagePath": "staticwebassets\\images\\shadow-overlay.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\shadow-overlay2.png",
+      "PackagePath": "staticwebassets\\images\\shadow-overlay2.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\shop\\portfolio-sq1.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\portfolio-sq1.jpg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\shop\\portfolio-sq2.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\portfolio-sq2.jpg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\shop\\portfolio-sq3.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\portfolio-sq3.jpg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\shop\\product.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\product.jpg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\shop\\product2.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\product2.jpg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\shop\\quick-view.svg",
+      "PackagePath": "staticwebassets\\images\\shop\\quick-view.svg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\shop\\shopping-cart-added.svg",
+      "PackagePath": "staticwebassets\\images\\shop\\shopping-cart-added.svg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\shop\\shopping-cart-loading.svg",
+      "PackagePath": "staticwebassets\\images\\shop\\shopping-cart-loading.svg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\shop\\shopping-cart.svg",
+      "PackagePath": "staticwebassets\\images\\shop\\shopping-cart.svg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\shopping-cart.png",
+      "PackagePath": "staticwebassets\\images\\shopping-cart.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\team\\team1.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\team1.jpg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\team\\team2.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\team2.jpg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\team\\team3.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\team3.jpg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\team\\team4.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\team4.jpg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\testimonials\\s1.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonials\\s1.jpg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\testimonials\\s2.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonials\\s2.jpg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\testimonials\\s3.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonials\\s3.jpg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\title-dots.png",
+      "PackagePath": "staticwebassets\\images\\title-dots.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\images\\title-icon.png",
+      "PackagePath": "staticwebassets\\images\\title-icon.png"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\img\\loading.html",
+      "PackagePath": "staticwebassets\\img\\loading.html"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\img\\video-play.html",
+      "PackagePath": "staticwebassets\\img\\video-play.html"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\img\\vimeo-play.html",
+      "PackagePath": "staticwebassets\\img\\vimeo-play.html"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\img\\youtube-play.html",
+      "PackagePath": "staticwebassets\\img\\youtube-play.html"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\js\\javascript-plugins-bundle.js",
+      "PackagePath": "staticwebassets\\js\\javascript-plugins-bundle.js"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery.js"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\js\\menuzord\\css\\menuzord.css",
+      "PackagePath": "staticwebassets\\js\\menuzord\\css\\menuzord.css"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\js\\menuzord\\js\\menuzord.js",
+      "PackagePath": "staticwebassets\\js\\menuzord\\js\\menuzord.js"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\js\\revolution-slider\\assets\\coloredbg.html",
+      "PackagePath": "staticwebassets\\js\\revolution-slider\\assets\\coloredbg.html"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\js\\revolution-slider\\assets\\gridtile.html",
+      "PackagePath": "staticwebassets\\js\\revolution-slider\\assets\\gridtile.html"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\js\\revolution-slider\\assets\\gridtile_3x3.html",
+      "PackagePath": "staticwebassets\\js\\revolution-slider\\assets\\gridtile_3x3.html"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\js\\revolution-slider\\assets\\gridtile_3x3_white.html",
+      "PackagePath": "staticwebassets\\js\\revolution-slider\\assets\\gridtile_3x3_white.html"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\js\\revolution-slider\\assets\\gridtile_white.html",
+      "PackagePath": "staticwebassets\\js\\revolution-slider\\assets\\gridtile_white.html"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\js\\revolution-slider\\assets\\loader.gif",
+      "PackagePath": "staticwebassets\\js\\revolution-slider\\assets\\loader.gif"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\js\\revolution-slider\\css\\closedhand.html",
+      "PackagePath": "staticwebassets\\js\\revolution-slider\\css\\closedhand.html"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\js\\revolution-slider\\css\\openhand.html",
+      "PackagePath": "staticwebassets\\js\\revolution-slider\\css\\openhand.html"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\js\\revolution-slider\\css\\rs6.css",
+      "PackagePath": "staticwebassets\\js\\revolution-slider\\css\\rs6.css"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\js\\revolution-slider\\extra-rev-slider1.css",
+      "PackagePath": "staticwebassets\\js\\revolution-slider\\extra-rev-slider1.css"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\js\\revolution-slider\\extra-rev-slider1.js",
+      "PackagePath": "staticwebassets\\js\\revolution-slider\\extra-rev-slider1.js"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\js\\revolution-slider\\fonts\\revicons\\revicons90c6.eot",
+      "PackagePath": "staticwebassets\\js\\revolution-slider\\fonts\\revicons\\revicons90c6.eot"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\js\\revolution-slider\\fonts\\revicons\\revicons90c6.svg",
+      "PackagePath": "staticwebassets\\js\\revolution-slider\\fonts\\revicons\\revicons90c6.svg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\js\\revolution-slider\\fonts\\revicons\\revicons90c6.ttf",
+      "PackagePath": "staticwebassets\\js\\revolution-slider\\fonts\\revicons\\revicons90c6.ttf"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\js\\revolution-slider\\fonts\\revicons\\revicons90c6.woff",
+      "PackagePath": "staticwebassets\\js\\revolution-slider\\fonts\\revicons\\revicons90c6.woff"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\js\\revolution-slider\\js\\revolution.tools.min.js",
+      "PackagePath": "staticwebassets\\js\\revolution-slider\\js\\revolution.tools.min.js"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\js\\revolution-slider\\js\\rs6.min.js",
+      "PackagePath": "staticwebassets\\js\\revolution-slider\\js\\rs6.min.js"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\WorkSpace\\BebekBakıcısıProjesi\\BebekBakıcısı\\BebekBakıcısı\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EduKıds.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.EduKıds.props",
+      "PackagePath": "build\\EduKıds.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EduKıds.props",
+      "PackagePath": "buildMultiTargeting\\EduKıds.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.EduKıds.props",
+      "PackagePath": "buildTransitive\\EduKıds.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
